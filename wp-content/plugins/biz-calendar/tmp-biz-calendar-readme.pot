@@ -1,0 +1,112 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "Biz Calendar"
+msgstr ""
+
+#. Short description.
+msgid "Business day and event calendar on widget."
+msgstr ""
+
+#. Screenshot description.
+msgid "Calendar widget"
+msgstr ""
+
+#. Screenshot description.
+msgid "Admin page"
+msgstr ""
+
+#. Found in description header.
+msgid "特徴"
+msgstr ""
+
+#. Found in description list item.
+msgid "曜日を指定して定休日に設定できます"
+msgstr ""
+
+#. Found in description list item.
+msgid "臨時休業日・臨時営業日を登録できます"
+msgstr ""
+
+#. Found in description list item.
+msgid "イベント開催日、urlを設定できます"
+msgstr ""
+
+#. Found in description list item.
+msgid "ページを移動せずに翌月・前月のカレンダーを表示できます"
+msgstr ""
+
+#. Found in description paragraph.
+msgid ""
+"Biz Calendarは、営業日・イベントカレンダーをウィジェットに表示するプラグインです。\n"
+"休業日、イベント開催日を表示するカレンダーを サイドメニューに簡単に作成できます。"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "詳細な使用方法はこちらです: http://residentbird.main.jp/bizplugin/plugins/bizcalendar/"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Upload <code>plugin-name.zip</code> to the <code>/wp-content/plugins/</code> directory"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Activate the plugin through the 'Plugins' menu in WordPress"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "レイアウトの軽微な修正を行いました"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "特定の環境で祝日ファイルの登録に失敗する不具合を修正しました"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "祝日ファイルの登録機能を追加しました"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Google Calendar API Ver.2終了に伴い、祝日を自動的に定休日に設定する機能を廃止しました"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "カレンダーのデザインを変更しました"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "WordPress3.6に対応しました"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "カレンダーの月送り範囲を設定する機能を追加しました"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "今月のカレンダーに戻る機能を追加しました"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "祝日の自動表示期間を年（1月～12月末まで）から年度（4月～翌年3月末まで）に変更しました"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Google Calendar APIからの祝日取得結果をキャッシュし、表示パフォーマンスを向上しました"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "カレンダーの今日を強調して表示する機能追加"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "イベントの説明をイベントのurlへのリンクになる機能追加"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "障害修正"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "初版リリース"
+msgstr ""
